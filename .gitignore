@@ -1,0 +1,15 @@
+/*venv*
+resources
+__pycache__
+local
+_test
+Archive
+examples/**/firstgen
+examples/**/lastgen
+examples/**/history.ga
+examples/**/*.png
+examples/**/*.svg
+
+/dist
+/build
+*.egg*
