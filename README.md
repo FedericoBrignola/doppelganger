@@ -3,10 +3,12 @@ AI framework that mix up Genetic Algorithms and Decision Trees to observe, learn
 
 ---
 
+This is an University project developed by Giulia Ciancarelli and Federico Brignola at Sapienza University Of Rome.
+
+---
+
 Doppelganger is an AI project aiming at the induction of models of strategies starting from observed behaviors.
-
 For example, we'll want to find the strategy model adopted by a person that plays a specific game.
-
 To test the performance and efficiency of our algorithms, we used a simplified version of the classic snake game.
 
 # The project structure
